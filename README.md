@@ -3,6 +3,7 @@ A visually appealing clone of Twitter (X) built using **Tailwind CSS**. This pro
 
 ## DISPLAY
 https://xcloned.netlify.app/
+devjasani79.github.io/x-clone.github.io/
 
 ## Features  
 - **Trending Topics**: Displays trending hashtags and topics.  
