@@ -1,7 +1,7 @@
 # Twitter (X) Clone  
 A visually appealing clone of Twitter (X) built using **Tailwind CSS**. This project replicates key UI components of the platform, such as trending topics, "Who to Follow," user posts, and a responsive layout.
 
-##DISPLAY
+## DISPLAY
 https://xcloned.netlify.app/
 
 ## Features  
